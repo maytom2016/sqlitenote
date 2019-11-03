@@ -137,11 +137,12 @@ def loadalltitle():
     cu.close()
 def deletenowselection():
     sql='''DELETE FROM notes WHERE id= ?'''
+    print(label2.get())
     if (lb.curselection()):
       nowselection = lb.get(lb.curselection())
       dhlo = nowselection.find(',')
       databaseid = int(nowselection[0:dhlo])
-      data=(label2.get())
+      data=(label2.get(),)
       conn = sqlite3.connect(DB_FILE_PATH)
       cu = conn.cursor()
       cu.execute(sql,data)
