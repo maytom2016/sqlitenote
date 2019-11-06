@@ -9,8 +9,9 @@ Updated November 6, 2019, version v102
 
 Main changes: 1. Add unsaved files to remind.
 
-         2.修复保存文件时不必要的更新列表。
-         2.. Repair the list of unnecessary updates when saving files.
+2.修复保存文件时不必要的更新列表。
+
+2. Repair the list of unnecessary updates when saving files.
 
 下一步可能做的功能，右键菜单，包括复制、粘贴、撤销等等。
 
