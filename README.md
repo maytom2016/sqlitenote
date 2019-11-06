@@ -22,6 +22,7 @@ Next possible functions, right-click menu, including copy, paste, undo, etc.
 Although it can be done with crtl + cvz, let's do it!
 
 ##############################################################
+
 由于不喜欢很多txt文件占用我的桌面，所以想用一个文件来存储其中的数据，组装了这个程序，功能十分简单，应该有很多BUG，不过谁在乎呢？现在就我自己用，
 发现一个就改一个吧！
 
