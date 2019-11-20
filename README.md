@@ -1,6 +1,8 @@
 # sqlitenote
 利用sqlite文件数据库存储笔记内容的应用(sqlitenote)
 
+  ![Image text](https://github.com/maytom2016/sqlitenote/blob/master/ui.png)
+
 2019年11月20号更新，v103版本
 
 Updated November 20, 2019, v103 version
