@@ -2,6 +2,24 @@
 利用sqlite文件数据库存储笔记内容的应用(sqlitenote)
 
   ![Image text](https://github.com/maytom2016/sqlitenote/blob/master/ui.png)
+2020年3月1号更新，v104版本
+新增列表菜单，包括新建、保存、删除、导入、导出、打开其他数据库
+
+New list menu, including new, save, delete, import, export, open other databases
+
+功能修复如下：
+
+Features are fixed as follows:
+
+优化新增、保存、删除功能，使得不会出现不必要的刷新列表
+
+Optimized new, save, and delete functions so that unnecessary refresh lists do not appear
+
+优化退出时检测是否需要保存功能，避免不必要的询问
+
+Optimize the detection of saving function when exiting, avoid unnecessary inquiries
+
+##############################################################
 
 2019年11月20号更新，v103版本
 
