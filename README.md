@@ -19,7 +19,7 @@ BUG修复
 
 2. Adjust the UI of the interface to avoid the overlap between note labels and titles.
 
-3, optimize the deletion function, so that no longer refresh the list repeatedly.
+3. optimize the deletion function, so that no longer refresh the list repeatedly.
 
 4. Optimize the new and save functions. When there is a new category, it will automatically switch to the new category label
 
