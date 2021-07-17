@@ -3,6 +3,7 @@
 
   ![Image text](https://github.com/maytom2016/sqlitenote/blob/master/ui.png)
 2021年7月18号更新，v105版本
+
 BUG修复
 
 1、调整保存机制，使得提示结果更加准确。
@@ -24,7 +25,7 @@ BUG修复
 4. Optimize the new and save functions. When there is a new category, it will automatically switch to the new category label
 
 5. Add a list scrollbar.
-
+##############################################################
 2020年3月1号更新，v104版本
 新增列表菜单，包括新建、保存、删除、导入、导出、打开其他数据库
 
