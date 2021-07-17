@@ -4,16 +4,25 @@
   ![Image text](https://github.com/maytom2016/sqlitenote/blob/master/ui.png)
 2021年7月18号更新，v105版本
 BUG修复
+
 1、调整保存机制，使得提示结果更加准确。
+
 2、调整界面UI，避免笔记标签与标题重合。
+
 3、优化删除功能，使得不再重复刷新列表。
-4、优化新建、保存功能，当有新分类时，自动切换到新分类标签
+
+4、优化新建、保存功能，当有新分类时，自动切换到新分类标签。
+
 5、添加列表滚动条。
 
 1. Adjust the saving mechanism to make the prompt results more accurate
+
 2. Adjust the UI of the interface to avoid the overlap between note labels and titles.
+
 3, optimize the deletion function, so that no longer refresh the list repeatedly.
+
 4. Optimize the new and save functions. When there is a new category, it will automatically switch to the new category label
+
 5. Add a list scrollbar.
 
 2020年3月1号更新，v104版本
