@@ -27,7 +27,9 @@ BUG修复
 5. Add a list scrollbar.
 
 ##############################################################
+
 2020年3月1号更新，v104版本
+
 新增列表菜单，包括新建、保存、删除、导入、导出、打开其他数据库
 
 New list menu, including new, save, delete, import, export, open other databases
