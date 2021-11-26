@@ -1,4 +1,4 @@
-**English** | [中文]()
+**English** | [中文](https://github.com/maytom2016/sqlitenote/blob/master/%E8%AF%BB%E6%88%91%E4%B8%AD%E6%96%87.md)
 # sqlitenote
 Use SQLite file database to store note content application (sqlitenote)
 
